@@ -4,6 +4,16 @@ Ein Schulprojekt im Fach **Medientechnik**, das zeigt, wie künstliche Intellige
 
 ---
 
+<h1 align="center">🤖 KI vs Realität</h1>
+
+<p align="center">
+  <img src="images/Titelbild.jpg" width="800"/>
+</p>
+
+<p align="center">
+  Wie künstliche Intelligenz unsere Medien verändert
+</p>
+
 ## 📌 Projektübersicht
 
 Künstliche Intelligenz wird heute in vielen Bereichen der Medienproduktion eingesetzt.  
