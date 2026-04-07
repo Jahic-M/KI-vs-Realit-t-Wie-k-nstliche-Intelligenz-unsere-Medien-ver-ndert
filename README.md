@@ -1,3 +1,14 @@
+<h1 align="center">🤖 KI vs Realität</h1>
+
+<p align="center">
+  <img src="images/KI gegen die Zukunft.png" width="800"/>
+</p>
+
+<p align="center">
+  Wie künstliche Intelligenz unsere Medien verändert
+</p>
+
+
 # 🤖 KI vs Realität – Wie künstliche Intelligenz unsere Medien verändert
 
 Ein Schulprojekt im Fach **Medientechnik**, das zeigt, wie künstliche Intelligenz moderne Medien verändert und welche Chancen sowie Risiken daraus entstehen.
